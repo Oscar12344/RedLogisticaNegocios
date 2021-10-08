@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_perfil"
+            android:title="@string/menu_perfil" />
+        <item
+            android:id="@+id/nav_nosotros"
+            android:icon="@drawable/ic_nosotros"
+            android:title="@string/menu_nosotros" />
+        <item
+            android:id="@+id/nav_preguntas"
+            android:icon="@drawable/ic_preguntas"
+            android:title="@string/menu_preguntas" />
+        <item
+            android:id="@+id/nav_lugares"
+            android:icon="@drawable/ic_lugares"
+            android:title="@string/menu_lugares" />
+        <item
+            android:id="@+id/nav_reglamento"
+            android:icon="@drawable/ic_reglamentos"
+            android:title="@string/menu_reglamento" />
+        <item
+            android:id="@+id/nav_courier"
+            android:icon="@drawable/ic_courier"
+            android:title="@string/menu_courier" />
+        <item
+            android:id="@+id/nav_mensajeria"
+            android:icon="@drawable/ic_mensajeria"
+            android:title="@string/menu_mensajeria" />
+        <item
+            android:id="@+id/nav_almacen"
+            android:icon="@drawable/ic_almacen"
+            android:title="@string/menu_almacen" />
+        <item
+            android:id="@+id/nav_tips"
+            android:icon="@drawable/ic_tips"
+            android:title="@string/menu_tips" />
+    </group>
+</menu>

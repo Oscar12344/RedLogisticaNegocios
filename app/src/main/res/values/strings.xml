@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">RedNegociosLogistica</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Red Negocios y Logística</string>
+    <string name="nav_header_subtitle">user@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_nosotros">Nosotros</string>
+    <string name="menu_preguntas">Preguntas Frecuentes</string>
+    <string name="menu_lugares">Lugares de atención</string>
+    <string name="menu_reglamento">Reglamento</string>
+    <string name="menu_courier">Paquetería y courier</string>
+    <string name="aver">Hola pe ------dd</string>
+    <string name="menu_mensajeria">Mensajería</string>
+    <string name="menu_almacen">Almacén</string>
+    <string name="menu_tips">Tips</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subtitulo_curier">En el servicio de Paquetería y courier ofrecemos:</string>
+    <string name="servicio1_curier">-> Entregas inmediatas desde sobres hasta cartas en general.</string>
+    <string name="servicio2_curier">-> Confirmaciones en el transcurso del día.</string>
+    <string name="servicio3_curier">-> Entregas urgentes.</string>
+    <string name="servicio4_curier">-> Manejo de paquetes frágiles y cuidadosos.</string>
+    <string name="servicio5_curier">-> Distribución de Medicinas, refrigerados y mercancía en general.</string>
+    <string name="subtitulo_mensajeria">En el servicio de Mensajería y trámite documentario ofrecemos:</string>
+    <string name="servicio1_mensajeria">-> Reparto de documentos masivos, invitaciones, revistas, encartes, volantes, etc.</string>
+    <string name="servicio2_mensajeria">-> Trámites, inscripciones, licitaciones, cobro de cheques, etc.</string>
+    <string name="servicio3_mensajeria">-> Envío de letras, cheques, pagarés, facturas, notas de crédito, boletas, pines, etc.</string>
+    <string name="servicio4_mensajeria">-> Verificaciones domicilarias.</string>
+
+
+    <string name="subtitulo_almacen">En el servicio de Oficina virtual, Domicilio comercial y Almacén ofrecemos:</string>
+    <string name="servicio1_almacen">-> Establecemos su presencia en la Ciudad de Huancayo a través de nuestra dirección como domicilio comercial y/o sucursal.</string>
+    <string name="servicio2_almacen">-> Recepción y envío de documentos para sus clientes.</string>
+    <string name="servicio3_almacen">-> Almacén disponible en la ciudad de Huancayo-Tambo.</string>
+
+    <string name="subtitulo_nosotros">NOSOTROS</string>
+    <string name="servicio_nosotros">RED NEGOCIOS Y LOGÍSTICA E.I.R.L., es una empresa que tiene sus orígenes en el año 2007, brindando servicios de Courier, Paquetería y Mensajería a diferentes empresas de Lima como representantes en la ciudad de Huancayo.
+Somos una empresa con más de 10 años de permanencia en el mercado, los cuales nos han proporcionado una amplia experiencia en el rubro de servicios y nos respaldan como una empresa en constante crecimiento en ofrecer a nuestros clientes Calidad y un Buen Servicio, ayudando a transportar y distribuir productos en la ciudad Huancayo.</string>
+    <string name="subtitulo_mision">MISIÓN</string>
+    <string name="servicio_mision">“Convertirnos en una Empresa huancaína líder en brindar soluciones logísticas, distribución y representación equipada cubriendo todas las regiones de demanda de servicio en la cuidad de Huancayo, satisfaciendo las necesidades de los clientes, proporcionando recursos que nos permita adecuarnos con rapidez y dotando un organismo que le asegure agilidad de conducción, oportuna toma de decisiones y dinámica operativa logrando un crecimiento individual y en equipo.”</string>
+    <string name="subtitulo_vision">VISIÓN</string>
+    <string name="servicio_vision">“Somos una empresa dedicada a ofrecer servicios de Courier, paquetería y mensajería, por medio de furgonetas y vehículos motorizados, entregando un servicio confiable, seguro, económico y en el menor tiempo posible con el fin de crear y mantener una relación comercial sólida y duradera con nuestros clientes, respaldados con un talento humano capacitado y comprometido, a su vez cumpliendo con los requisitos esenciales exigidos en calidad, eficiencia y de acuerdo a los requerimientos satisfaciendo las necesidades de la comunidad huancaína con excelencia y ética, brindando facilidades técnicas y económicas.”</string>
+
+
+
+
+
+
+
+
+
+</resources>
